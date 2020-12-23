@@ -1,0 +1,1 @@
+'HW_4.Rmd' has the markdown for the pdf version ('HW_4.pdf'). 'HW4_Fun.R' has the functions I wrote for some of the exercises. 'ex4.RData', 'ex5.RData', ex5.RData' files have the objects obtained while running the code for exercises 3, 4 and 5. Running most of my code should not take long though.
